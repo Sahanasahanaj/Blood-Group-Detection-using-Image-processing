@@ -1,17 +1,3 @@
-# Debug :Blood group Detection using python python
-
-## Author
-
-- Name : Anirudh
-- GitHub : https://github.com/anirudhjaishankar
-
-## Debugging By :
-
-- Name: [Mahesh Babu Sammeta](https://github.com/sammetamaheshbabu)
-- GitHut : https://github.com/sammetamaheshbabu
-- LinkedIn : https://www.linkedin.com/in/sammetamaheshbabu/
-- I'm from Hyderabad, India.
-- Date : 06-03-2024
 
 ## Table of Contents
 
@@ -30,10 +16,6 @@
 13. [Contact](#contact)
 
 ---
-
-## DEMO Video link:
-
-- ### [YouTube](https://youtu.be/UeWgFXQND7E).
 
 ## Introduction
 
@@ -146,8 +128,4 @@ The Blood Group Detection System demonstrates the potential of computer vision a
 
 This project is intended for educational and research purposes only. It should not be used as a substitute for professional medical diagnosis or blood typing procedures.
 
-## Contact
 
-For any inquiries or support, please contact [Linkedin](https://www.linkedin.com/in/sammetamaheshbabu/) ,[Instagram](https://www.instagram.com/sammetamaheshbabu/).
-
----
